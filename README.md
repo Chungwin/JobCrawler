@@ -7,3 +7,6 @@ How does the demand develop over the course of time? <br>
 Which jobs are how much in demand in different locations? <br>
 ...<br>
 etc. <br>
+<br>
+<br>
+I use the Python Library BeautifulSoup for pulling data out of HTML. <br>
