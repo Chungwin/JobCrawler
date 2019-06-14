@@ -9,9 +9,4 @@ Which jobs are how much in demand in different locations? <br>
 etc. <br>
 <br>
 I use the Python Library BeautifulSoup for pulling data out of HTML. <br>
-Work in prgresss! <br> <br>
-Next: <br>
-- Clean 'Date column'<br>
-- Reliably and repeatedly store 30K trext files in directories <br>
-- Deploy on AWS or Digital Ocean .. <br>
-- Let code run over (at least) a couple of monnths ..
+Work in prgresss! Slow and steady wins the race ...
