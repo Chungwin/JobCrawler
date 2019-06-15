@@ -8,5 +8,6 @@ Which jobs are how much in demand in different locations? <br>
 ...<br>
 etc. <br>
 <br>
-I use the Python Library BeautifulSoup for pulling data out of HTML. <br>
-Work in prgresss! Slow and steady wins the race ...
+I use the Python Library BeautifulSoup for pulling data out of HTML. <br><br>
+Work in prgresss! Slow and steady wins the race ... <br><br>
+Still struggling with git ..
